@@ -1,0 +1,21 @@
+[2022-04-21 15:07:22] [info] Start Program:
+Path:"C:\Users\OTI\OneDrive\Desktop\Facultate\Materii\OOP\lab6_7 - vector\x64\Debug\lab6_7.exe"
+Arguments:
+Working directory: "C:\Users\OTI\OneDrive\Desktop\Facultate\Materii\OOP\lab6_7 - vector"
+Modules: Selected: C:\Users\OTI\OneDrive\Desktop\Facultate\Materii\OOP\lab6_7 - vector\x64\Debug\lab6_7.exe Excluded: 
+Sources: Selected: C:\Users\OTI\OneDrive\Desktop\Facultate\Materii\OOP\lab6_7 - vector Excluded: ui test 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\OTI\AppData\Local\Temp\sqfldi1n.0bb 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-04-21 15:07:22] [info] Module: C:\Users\OTI\OneDrive\Desktop\Facultate\Materii\OOP\lab6_7 - vector\x64\Debug\lab6_7.exe is selected because it matches selected pattern: C:\Users\OTI\OneDrive\Desktop\Facultate\Materii\OOP\lab6_7 - vector\x64\Debug\lab6_7.exe
+[2022-04-21 15:07:23] [info] ----------------------------------------------------
+[2022-04-21 15:07:23] [info] Coverage binary generated in file: C:\Users\OTI\AppData\Local\Temp\sqfldi1n.0bb
+[2022-04-21 15:07:23] [info] ----------------------------------------------------

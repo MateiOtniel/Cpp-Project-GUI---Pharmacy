@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Console">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAiAAAAAAAAAAIAAAAEAAABgAACAQCAYAAAgg=</HashCode>
+      <FileName>ui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Medicament">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAgAAEQAAAQAAEAAABAASABQAACAAAAAAAUAAAAAgA=</HashCode>
+      <FileName>domain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RepoMedicamente">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAggQAIAQAAAAACAAAAgAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>repo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Service">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAQAAAAAAAAEAEYAAEAAAQAQAAUAAIAAAAAQ=</HashCode>
+      <FileName>service.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Validator">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAACA=</HashCode>
+      <FileName>validator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vectorClass&lt;Medicament&gt;">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAABIMAQoAAgAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>vectorClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
